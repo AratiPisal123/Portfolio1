@@ -67,7 +67,7 @@ body{
 }
 .home-img img{
     width:30vw;
-    padding:100px 20px;
+    padding:200px 20px;
     animation:floatImage1 5s ease-in-out infinite;
     
 }
@@ -144,7 +144,7 @@ transition: 0.5s ease;
 }
 .about-img img{
     width:30vw;
-    padding:100px 20px;
+    padding:200px 20px;
     animation:floatImage 4s ease-in-out infinite;
 }
 @keyframes floatImage {
